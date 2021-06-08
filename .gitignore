@@ -3,3 +3,17 @@
 ################################################################################
 
 /Architecture/bin/Debug/netcoreapp3.1
+/Architecture/obj
+/DesafioPB/bin/Debug/netcoreapp3.1
+/DesafioPB/obj/Debug/netcoreapp3.1
+/DesafioPB/obj
+/Domain/bin/Debug/netcoreapp3.1
+/Domain/obj
+/Repository/bin/Debug/netcoreapp3.1
+/Repository/obj
+/Seed/bin/Debug/netcoreapp3.1
+/Seed/obj
+/Service/bin/Debug/netcoreapp3.1
+/Service/obj
+/Tests/bin/Debug/netcoreapp3.1
+/Tests/obj
